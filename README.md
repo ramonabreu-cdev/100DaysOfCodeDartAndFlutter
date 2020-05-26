@@ -10,6 +10,7 @@
 1. Hello;
 2. variavel;
 3. operações;
+
 **Dia 02**
 4. Concatenação;
 5. Estrutura de Decisão;
