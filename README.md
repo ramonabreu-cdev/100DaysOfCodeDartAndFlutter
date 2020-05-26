@@ -7,11 +7,10 @@
 **00_Zero**
 
 **Dia 01**
-<ol>
-  1. <li>[Hello;](https://github.com/ramonabreu-cdev/100DaysOfCodeDartAndFlutter/blob/master/01_FundamentosDart/00_Zero/01_hello.dart)</li>
+1.[Hello;](https://github.com/ramonabreu-cdev/100DaysOfCodeDartAndFlutter/blob/master/01_FundamentosDart/00_Zero/01_hello.dart)
 2. variavel;
 3. operações;
-<ol>
+
 **Dia 02**
 
 4. Concatenação;
