@@ -4,16 +4,12 @@
 
 **Requisitos , Dependências e Documentações**
 
-[**Instalação Dart**](https://dart.dev/get-dart)
-
-[**Documentação Dart**](https://dart.dev/guides)
-
-[**Instalação Flutter**](https://flutter.dev/docs/get-started/install)
-
+[**Instalação Dart,**](https://dart.dev/get-dart)
+[**Documentação Dart,**](https://dart.dev/guides)
+[**Instalação Flutter,**](https://flutter.dev/docs/get-started/install)
 [**Documentação Flutter**](https://flutter.dev/docs)
 
-[**Instalação VScode**](https://code.visualstudio.com/download)
-
+[**Instalação VScode,**](https://code.visualstudio.com/download)
 [**Instalação Android Studio**](https://developer.android.com/studio?hl=pt-br)
 
 **Dart Fundamentos:**
