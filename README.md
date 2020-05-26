@@ -2,7 +2,7 @@
 
 # 100 dias de código com Dart e Flutter
 
-# Requisitos , Dependências e Documentações
+**Requisitos , Dependências e Documentações**
 
 [**Instalação Dart**](https://dart.dev/get-dart)
 
