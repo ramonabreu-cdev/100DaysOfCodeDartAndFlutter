@@ -2,11 +2,24 @@
 
 # 100 dias de código com Dart e Flutter
 
+# Requisitos , Dependências e Documentações
+
+[**Instalação Dart**](https://dart.dev/get-dart)
+
+[**Documentação Dart**](https://dart.dev/guides)
+
+[**Instalação Flutter**](https://flutter.dev/docs/get-started/install)
+
+[**Documentação Flutter**](https://flutter.dev/docs)
+
+[**Instalação VScode**](https://code.visualstudio.com/download)
+
+[**Instalação Android Studio**](https://developer.android.com/studio?hl=pt-br)
+
 **Dart Fundamentos:**
 
 [**00_Zero**](https://github.com/ramonabreu-cdev/100DaysOfCodeDartAndFlutter/tree/master/01_FundamentosDart/00_Zero)
 
-[**Instalação**](https://dart.dev/get-dart)
 
 **Dia 01**
 
