@@ -10,9 +10,9 @@
 
 [1.Hello;](https://github.com/ramonabreu-cdev/100DaysOfCodeDartAndFlutter/blob/master/01_FundamentosDart/00_Zero/01_hello.dart)
 
-[2.variavel;](https://github.com/ramonabreu-cdev/100DaysOfCodeDartAndFlutter/blob/master/01_FundamentosDart/00_Zero/02_variavel.dart)
+[2.Variável;](https://github.com/ramonabreu-cdev/100DaysOfCodeDartAndFlutter/blob/master/01_FundamentosDart/00_Zero/02_variavel.dart)
 
-[3.operações;](https://github.com/ramonabreu-cdev/100DaysOfCodeDartAndFlutter/blob/master/01_FundamentosDart/00_Zero/03_operacoes.dart)
+[3.Operações;](https://github.com/ramonabreu-cdev/100DaysOfCodeDartAndFlutter/blob/master/01_FundamentosDart/00_Zero/03_operacoes.dart)
 
 **Dia 02**
 
