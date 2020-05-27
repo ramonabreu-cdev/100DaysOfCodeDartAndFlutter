@@ -37,5 +37,5 @@
 
 [7.Inputs;](https://github.com/ramonabreu-cdev/100DaysOfCodeDartAndFlutter/blob/master/01_FundamentosDart/00_Zero/07_input.dart)
 
-[7.Exercício Inputs,Estruturas de dicisão;](https://github.com/ramonabreu-cdev/100DaysOfCodeDartAndFlutter/blob/master/01_FundamentosDart/00_Zero/08_inputEstruIfElse.dart)
+[8.Exercício Inputs,Estruturas de dicisão;](https://github.com/ramonabreu-cdev/100DaysOfCodeDartAndFlutter/blob/master/01_FundamentosDart/00_Zero/08_inputEstruIfElse.dart)
 
