@@ -38,4 +38,10 @@
 [7.Inputs;](https://github.com/ramonabreu-cdev/100DaysOfCodeDartAndFlutter/blob/master/01_FundamentosDart/00_Zero/07_input.dart)
 
 [8.Exercício Inputs,Estruturas de dicisão;](https://github.com/ramonabreu-cdev/100DaysOfCodeDartAndFlutter/blob/master/01_FundamentosDart/00_Zero/08_inputEstruIfElse.dart)
+**Dia 03**
+
+[9.Constantes;](https://github.com/ramonabreu-cdev/100DaysOfCodeDartAndFlutter/blob/master/01_FundamentosDart/00_Zero/09_constantes01.dart)
+
+[8.Notação Ponto;](https://github.com/ramonabreu-cdev/100DaysOfCodeDartAndFlutter/blob/master/01_FundamentosDart/00_Zero/10_notacaoPonto.dart)
+
 
