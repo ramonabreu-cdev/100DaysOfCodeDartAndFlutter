@@ -33,3 +33,9 @@
 
 [6.Exercício 01(var,opera,if,else);](https://github.com/ramonabreu-cdev/100DaysOfCodeDartAndFlutter/blob/master/01_FundamentosDart/00_Zero/06_exercicio01.dart)
 
+**Dia 03**
+
+[7.Inputs;](https://github.com/ramonabreu-cdev/100DaysOfCodeDartAndFlutter/blob/master/01_FundamentosDart/00_Zero/07_input.dart)
+
+[8.Exercício Inputs,Estruturas de dicisão;](https://github.com/ramonabreu-cdev/100DaysOfCodeDartAndFlutter/blob/master/01_FundamentosDart/00_Zero/08_inputEstruIfElse.dart)
+
