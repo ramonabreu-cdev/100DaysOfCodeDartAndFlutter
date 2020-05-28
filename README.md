@@ -39,7 +39,7 @@
 
 [8.Exercício Inputs,Estruturas de dicisão;](https://github.com/ramonabreu-cdev/100DaysOfCodeDartAndFlutter/blob/master/01_FundamentosDart/00_Zero/08_inputEstruIfElse.dart)
 
-**Dia 03**
+**Dia 04**
 
 [9.Constantes;](https://github.com/ramonabreu-cdev/100DaysOfCodeDartAndFlutter/blob/master/01_FundamentosDart/00_Zero/09_constantes01.dart)
 
