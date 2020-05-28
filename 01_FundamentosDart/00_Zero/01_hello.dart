@@ -1,4 +1,4 @@
-/*Características Prinpicais do Dart:
+/*Características Princicais do Dart:
 - Possui uma Sintaxe baseada em C
 - Por isso a Similaridade com C e Java
 - Foi Cotado em  2011 para subistituir o JavaScript
