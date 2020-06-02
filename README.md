@@ -67,7 +67,9 @@
 
 [16.Break / Continue ;](https://github.com/ramonabreu-cdev/100DaysOfCodeDartAndFlutter/blob/master/01_FundamentosDart/01_EstruturasDeControle/16_breakContiue.dart)
 
+[**02 Funções**](https://github.com/ramonabreu-cdev/100DaysOfCodeDartAndFlutter/tree/master/01_FundamentosDart/02_fun%C3%A7%C3%B5es)
 
+[17.Função 01;](https://github.com/ramonabreu-cdev/100DaysOfCodeDartAndFlutter/tree/master/01_FundamentosDart/02_fun%C3%A7%C3%B5es)
 
 
 
