@@ -61,5 +61,13 @@
 
 [14.While;](https://github.com/ramonabreu-cdev/100DaysOfCodeDartAndFlutter/blob/master/01_FundamentosDart/01_EstruturasDeControle/14_while01.dart)
 
+**Dia 07**
+
+[15.Switch;](https://github.com/ramonabreu-cdev/100DaysOfCodeDartAndFlutter/blob/master/01_FundamentosDart/01_EstruturasDeControle/15_switch.dart)
+
+[16.Break / Continue ;](https://github.com/ramonabreu-cdev/100DaysOfCodeDartAndFlutter/blob/master/01_FundamentosDart/01_EstruturasDeControle/16_breakContiue.dart)
+
+
+
 
 
