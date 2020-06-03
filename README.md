@@ -79,7 +79,7 @@
 
 **Dia 10**
 
-[19.Função Dinãmicas;](https://github.com/ramonabreu-cdev/100DaysOfCodeDartAndFlutter/blob/master/01_FundamentosDart/02_fun%C3%A7%C3%B5es/19_funTipoDinamico.dart)
+[19.Função Dinâmicas;](https://github.com/ramonabreu-cdev/100DaysOfCodeDartAndFlutter/blob/master/01_FundamentosDart/02_fun%C3%A7%C3%B5es/19_funTipoDinamico.dart)
 
 [20.Função Opcionais;](https://github.com/ramonabreu-cdev/100DaysOfCodeDartAndFlutter/blob/master/01_FundamentosDart/02_fun%C3%A7%C3%B5es/20_funOpcional.dart)
 
