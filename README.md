@@ -73,5 +73,9 @@
 
 [17.Função 01;](https://github.com/ramonabreu-cdev/100DaysOfCodeDartAndFlutter/tree/master/01_FundamentosDart/02_fun%C3%A7%C3%B5es)
 
+**Dia 09**
+
+[18.Função com retorno;](https://github.com/ramonabreu-cdev/100DaysOfCodeDartAndFlutter/blob/master/01_FundamentosDart/02_fun%C3%A7%C3%B5es/18_funcao02.dart)
+
 
 
