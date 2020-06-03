@@ -81,7 +81,7 @@
 
 [19.Função Dinâmicas;](https://github.com/ramonabreu-cdev/100DaysOfCodeDartAndFlutter/blob/master/01_FundamentosDart/02_fun%C3%A7%C3%B5es/19_funTipoDinamico.dart)
 
-[20.Função Opcionaal;](https://github.com/ramonabreu-cdev/100DaysOfCodeDartAndFlutter/blob/master/01_FundamentosDart/02_fun%C3%A7%C3%B5es/20_funOpcional.dart)
+[20.Função Opcional;](https://github.com/ramonabreu-cdev/100DaysOfCodeDartAndFlutter/blob/master/01_FundamentosDart/02_fun%C3%A7%C3%B5es/20_funOpcional.dart)
 
 [21.Função Nomeada;](https://github.com/ramonabreu-cdev/100DaysOfCodeDartAndFlutter/blob/master/01_FundamentosDart/02_fun%C3%A7%C3%B5es/21_funNomeados.dart)
 
