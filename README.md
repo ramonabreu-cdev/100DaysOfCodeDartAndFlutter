@@ -77,5 +77,14 @@
 
 [18.Função com retorno;](https://github.com/ramonabreu-cdev/100DaysOfCodeDartAndFlutter/blob/master/01_FundamentosDart/02_fun%C3%A7%C3%B5es/18_funcao02.dart)
 
+**Dia 10**
+
+[19.Função Dinãmicas;](https://github.com/ramonabreu-cdev/100DaysOfCodeDartAndFlutter/blob/master/01_FundamentosDart/02_fun%C3%A7%C3%B5es/19_funTipoDinamico.dart)
+
+[20.Função Opcionais;](https://github.com/ramonabreu-cdev/100DaysOfCodeDartAndFlutter/blob/master/01_FundamentosDart/02_fun%C3%A7%C3%B5es/20_funOpcional.dart)
+
+[21.Função Nomeadas;](https://github.com/ramonabreu-cdev/100DaysOfCodeDartAndFlutter/blob/master/01_FundamentosDart/02_fun%C3%A7%C3%B5es/21_funNomeados.dart)
+
+
 
 
