@@ -11,7 +11,8 @@ main(){
   var  myFunPar = () => print("o valor é par ! ");
   var  myFunImpar = () => print("o valor é impar");
 
-  //pra executar:
+  //pra no terminal executar:
 
   executar(myFunPar, myFunImpar);
+  Print (executar);
 }
