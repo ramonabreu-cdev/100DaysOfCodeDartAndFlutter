@@ -94,4 +94,7 @@
 [23.Função Com Parâmeto;](https://github.com/ramonabreu-cdev/100DaysOfCodeDartAndFlutter/blob/master/01_FundamentosDart/02_fun%C3%A7%C3%B5es/23_funComParametro.dart)
 
 **Dia 13**
+[24.Função Filter;](https://github.com/ramonabreu-cdev/100DaysOfCodeDartAndFlutter/blob/master/01_FundamentosDart/02_fun%C3%A7%C3%B5es/24_FunFilter01.dart
 
+**Dia 14**
+[25.Função Map;](https://github.com/ramonabreu-cdev/100DaysOfCodeDartAndFlutter/blob/master/01_FundamentosDart/02_fun%C3%A7%C3%B5es/25_FunMapReduce.dart)
